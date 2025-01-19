@@ -1,0 +1,8 @@
+# Import the webbrowser module to open a URL
+import webbrowser
+
+# Define the URL you want to open
+url = "https://www.example.com"
+
+# Open the URL in the default web browser
+webbrowser.open(url)
